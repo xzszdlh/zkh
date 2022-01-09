@@ -1,3 +1,2 @@
 Git is a version control system
-Git is free software
-12345
+12345Git is free software
