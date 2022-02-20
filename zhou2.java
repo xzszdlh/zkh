@@ -22,7 +22,7 @@ public class zhou2 {
 
             Statement statement=connection.createStatement();
 
-            String sql ="insert into 01 values(null,'杜甫',3200)";
+            String sql ="insert into zhou123 values(null,'杜甫',3200)";
 
             if (statement.executeUpdate(sql)>1) {
                 System.out.println("插入成功");

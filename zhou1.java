@@ -30,7 +30,7 @@ public class zhou1<connection> {
             System.out.println("连接成功");
 
             //删除数据
-            String sql = "delete from 01 where id=3 ";
+            String sql = "delete from zhou123 where id=3 ";
             if (statement.executeUpdate(sql) >= 1) {
                 System.out.println("删除成功");
             } else {
